@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "artist": "Death",
+        "albumTitle": "Crystal Mountain",
+        "albumReleaseYear": 1995,
+        "genre": "Death Metal"
+    },
+    {
+        "id": 2,
+        "artist": "John Grant",
+        "albumTitle": "Pale Green Ghosts",
+        "albumReleaseYear": 2013,
+        "genre": "Alternative"
+    },
+    {
+        "id": 3,
+        "artist": "Keane",
+        "albumTitle": "Hopes and Fears",
+        "albumReleaseYear": 2004,
+        "genre": "Britpop"
+    },
+    {
+        "id": 4,
+        "artist": "MF DOOM",
+        "albumTitle": "Mm..Food",
+        "albumReleaseYear": 2004,
+        "genre": "Hip-hop"
+    },
+    {
+        "id": 5,
+        "artist": "NF",
+        "albumTitle": "Hope",
+        "albumReleaseYear": 2023,
+        "genre": "Rap"
+    }
+]
